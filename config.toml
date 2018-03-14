@@ -1,0 +1,107 @@
+baseurl = "http://cellx.vn/"
+languageCode = "en-US"
+title = "CELLX CO.,LTD."
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "CELLX"
+	description = "CELLX Co., Ltd."
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "CELLX"
+
+		[params.navigation.links]
+			about     = "Giới thiệu"
+			services  = "Dịch vụ"
+			portfolio = "Dự án đã làm"
+			contact   = "Liên hệ"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "cellx 4.0"
+		subtitle   = "[CELLX](//cellx.vn) được thành lập với tầm nhìn trở thành thực thể chủ chốt trong kỷ nguyên Công nghiệp 4.0"
+		buttonText = "Giới thiệu tổng quan"
+
+
+	# About section
+	[params.about]
+		headline    = "Chúng tôi có kỹ năng & kinh nghiệm để giúp bạn tiến vào kỷ nguyên Công nghiệp 4.0"
+		description = "Đội ngũ chuyên gia với các chứng chỉ hàng đầu trong ngành CNTT.<br/>Kinh nghiệm trải qua nhiều dự án công nghệ với hàm lượng chất xám cao.<br/>Nhiệt huyết & trung thực chia sẻ giải pháp công nghệ.<br/><br/>Tự hào tư vấn & cung cấp giải pháp trong:<br/>Điện toán đám mây + Tự động hóa doanh nghiệp + Thiết bị công nghệ cao.<br/>(Cloud computing + Business process automation + Cyber-phycical devices.)"
+		buttonText  = "Chi tiết Dịch vụ"
+
+
+	# Service section
+	[params.services]
+		headline = "Dịch vụ của CELLX"
+
+        [[params.services.list]]
+            icon = "fa-cloud"
+            title = "Cloud computing - Điện toán đám mây"
+            description = "Tư vấn và triển khai giải pháp điện toán đám mây (Amazon Web Services(AWS), Office 365, Microsoft Azure, Viettel, FPT)"
+
+        [[params.services.list]]
+			icon = "fa-rocket"
+			title = "Automation - Tự động hóa"
+			description = "Tư vấn và triển khai giải pháp tự động hóa qui trình cho doanh nghiệp (quản trị bán hàng thông suốt, quản trị tài nguyên & sản phẩm)"
+
+		[[params.services.list]]
+            icon = "fa-superpowers"
+            title = "Cyber devices - Thiết bị công nghệ cao"
+            description = "Tư vấn lựa chọn và chế tạo các sản phẩm công nghệ mới ứng dụng khoa học máy tính trong đời sống & sản xuất"
+
+        [[params.services.list]]
+            icon = "fa-eye"
+            title = "Artificial intelligence - Trí tuệ nhân tạo"
+            description = "Tư vấn và triển khai giải pháp nâng cao hiệu suất công việc bằng ứng dụng học máy & trí tuệ nhân tạo"
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		#headline = "Expand your business with our technology"
+
+		#[params.aside.button]
+			#text = "Download our tech tree"
+			#link = "//google.com.vn"
+
+	# Contact section
+	[params.contact]
+		headline = "Liên hệ"
+		description = "Bạn cần tư vấn về giải pháp hay gặp vướng mắc trong triển khai? Hãy liên hệ với chúng tôi."
+		# phone = "123-456-6789"
+		email = "contact@cellx.vn"
+
+	# Google Maps section
+	#[params.location]
+	# 	latitude  = "21.0293805"
+	# 	longitude = "105.7769237"
+	#	maps_api_key = ""
