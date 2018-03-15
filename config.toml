@@ -34,6 +34,7 @@ googleAnalytics = ""
 		[params.navigation.links]
 			about     = "Giới thiệu"
 			services  = "Dịch vụ"
+			products  = "Sản phẩm"
 			portfolio = "Dự án đã làm"
 			contact   = "Liên hệ"
 
@@ -52,6 +53,12 @@ googleAnalytics = ""
 		description = "Đội ngũ chuyên gia với các chứng chỉ hàng đầu trong ngành CNTT.<br/>Kinh nghiệm trải qua nhiều dự án công nghệ với hàm lượng chất xám cao.<br/>Nhiệt huyết & trung thực chia sẻ giải pháp công nghệ.<br/><br/>Tự hào tư vấn & cung cấp giải pháp trong:<br/>Điện toán đám mây + Tự động hóa doanh nghiệp + Thiết bị công nghệ cao.<br/>(Cloud computing + Business process automation + Cyber-phycical devices.)"
 		buttonText  = "Chi tiết Dịch vụ"
 
+	[params.products]
+		headline = "Sản phẩm của CELLX"
+		[[params.products.list]]
+            icon = "fa-cloud"
+            title = "Cloud computing - Điện toán đám mây"
+            description = "Tư vấn và triển khai giải pháp điện toán đám mây (Amazon Web Services(AWS), Office 365, Microsoft Azure, Viettel, FPT)"
 
 	# Service section
 	[params.services]
