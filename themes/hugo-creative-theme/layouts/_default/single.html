@@ -4,8 +4,15 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
-        {{ partial "navpage.html" . }}
-        
+         {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.products .Site.Params.navigation.links.services .Site.Params.navigation.links.portfolio .Site.Params.navigation.links.contact }}
+            {{ partial "nav.html" . }}
+        {{ end }}
+		
+		
+		{{ partial "js.html" . }}
+
+        {{ template "_internal/google_analytics.html" . }}
+		
 		<div class="post" style="padding-top:50px;">
 		  <h1>{{ .Title }}</h1>
 		  <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
