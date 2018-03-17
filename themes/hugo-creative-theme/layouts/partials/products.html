@@ -1,28 +1,63 @@
-{{ "<!-- PRODUCTS -->" | safeHTML }}
-<section id="products">
-    {{ with .Site.Params.products.headline }}
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
+<section class="no-padding" id="products">
+    <div class="container-fluid">
+		<div class="col-lg-8 col-lg-offset-2 text-center">
+                {{ with .Site.Params.products.headline }}
                     <h2 class="section-heading">{{ . }}</h2>
+                {{ end }}
+                {{ if and .Site.Params.products.headline .Site.Params.products.description }}
                     <hr class="primary">
-                </div>
+                {{ end }}
+                {{ with .Site.Params.products.description }}
+                    <p>{{ . | markdownify }}</p>
+                {{ end }}
             </div>
-        </div>
-    {{ end }}
-    <div class="container">
-        <div class="row">
-            {{ range .Site.Params.products.list }}
-            <div class="col-lg-3 col-md-6 text-center">
-                <div class="service-box">
-                    <i class="fa fa-4x {{ .icon }} wow bounceIn text-primary"></i>
-                    <h3>{{ .title }}</h3>
-                    {{ with .description }}
-                        <p class="text-muted">{{ . }}</p>
-                    {{ end }}
+        <div class="row no-gutter">
+            {{ range .Site.Data.products }}
+                <div class="col-lg-4 col-sm-6">
+                    <a  class="portfolio-box portfolio-link" data-toggle="modal">
+                        <img src="img/portfolio/{{ .img }}" class="img-responsive" alt="">
+                        {{ if and .category .title }}
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    {{ with .category }}
+                                        <div class="project-category text-faded">
+                                            {{ . }}
+                                        </div>
+                                    {{ end }}
+                                   
+									{{ with .title }}
+                                         <div class="col-lg-4 col-sm-6">
+											<a href="#portfolioModal{{ .modalID }}" class="portfolio-box portfolio-link" data-toggle="modal">
+
+										
+                                            {{ . }}
+											
+                                        </a>
+										</div>
+										
+                                    {{ end }}
+									
+										<div class="row">
+											<h4>Liên Hệ</h4>
+											<button onclick="tel:5555555555" class="btn btn-default ">      
+											 <i class="fa fa-phone fa-3x wow bounceIn"></i>
+
+											</button>
+											<button button onclick="location.href='mailto:contacts@cellx.vn';"class="btn btn-default  ">
+											<i  class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+											</button>
+											</div>
+										</div>
+								
+                            </div>
+							
+                        {{ end }}
+						
+                    </a>
+					
                 </div>
-            </div>
             {{ end }}
+			
         </div>
     </div>
 </section>

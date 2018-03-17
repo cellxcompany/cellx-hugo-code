@@ -21,7 +21,7 @@
                         <a class="page-scroll" href="#about">{{ .Site.Params.navigation.links.about }}</a>
                     </li>
                 {{ end }}
-				{{ if and .Site.Params.products.list .Site.Params.navigation.links.products }}
+				{{ if and .Site.Data.products .Site.Params.navigation.links.products }}
                     <li>
                         <a class="page-scroll" href="#products">{{ .Site.Params.navigation.links.products }}</a>
                     </li>

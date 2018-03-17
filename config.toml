@@ -53,13 +53,19 @@ googleAnalytics = ""
 		description = "Đội ngũ chuyên gia với các chứng chỉ hàng đầu trong ngành CNTT.<br/>Kinh nghiệm trải qua nhiều dự án công nghệ với hàm lượng chất xám cao.<br/>Nhiệt huyết & trung thực chia sẻ giải pháp công nghệ.<br/><br/>Tự hào tư vấn & cung cấp giải pháp trong:<br/>Điện toán đám mây + Tự động hóa doanh nghiệp + Thiết bị công nghệ cao.<br/>(Cloud computing + Business process automation + Cyber-phycical devices.)"
 		buttonText  = "Chi tiết Dịch vụ"
 
+	# Portfolio modals
 	[params.products]
-		headline = "Sản phẩm của CELLX"
-		[[params.products.list]]
-            icon = "fa-cloud"
-            title = "Cloud computing - Điện toán đám mây"
-            description = "Tư vấn và triển khai giải pháp điện toán đám mây (Amazon Web Services(AWS), Office 365, Microsoft Azure, Viettel, FPT)"
+		headline    = "Sản Phẩm"
+		description = "   "
+		buttonText  = "Liên hệ"
+		
+	[params.products.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
 
+	
 	# Service section
 	[params.services]
 		headline = "Dịch vụ của CELLX"
@@ -104,7 +110,7 @@ googleAnalytics = ""
 	[params.contact]
 		headline = "Liên hệ"
 		description = "Bạn cần tư vấn về giải pháp hay gặp vướng mắc trong triển khai? Hãy liên hệ với chúng tôi."
-		# phone = "123-456-6789"
+		phone = "123-456-6789"
 		email = "contact@cellx.vn"
 
 	# Google Maps section
