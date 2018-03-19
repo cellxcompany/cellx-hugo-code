@@ -2,17 +2,13 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
         {{ partial "head.html" . }}
-		{{ partial "js.html" . }}
+		
     </head>
     <body id="page-top">
+		<script type="text/javascript">window._sbzq||function(t){t._sbzq=[];var e=t._sbzq;e.push(["_setAccount", "acpynoezimqhotbyvmsp"]);var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://widgetv4.subiz.com/static/js/app.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(a,s)}(window);</script>
          {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.products .Site.Params.navigation.links.services .Site.Params.navigation.links.portfolio .Site.Params.navigation.links.contact }}
             {{ partial "navpage.html" . }}
         {{ end }}
-		
-		
-		
-
-        {{ template "_internal/google_analytics.html" . }}
 		
 		<div class="post" style="padding-top:50px;">
 		  <h1>{{ .Title }}</h1>
@@ -20,5 +16,6 @@
 		 <div class ="blog" > <h3>{{ .Content }}</h3> </div>
 		</div>
         {{ template "_internal/google_analytics.html" . }}
+		{{ partial "js.html" . }} 
     </body>
 </html>
