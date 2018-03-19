@@ -1307,6 +1307,7 @@ mark,
 }
 .text-center {
   text-align: center;
+  
 }
 .text-justify {
   text-align: justify;
@@ -6562,5 +6563,10 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+.blog{
+	top: 20%;
+	right:20%;
+	left: 10%;
 }
 /*# sourceMappingURL=bootstrap.css.map */

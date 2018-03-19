@@ -18,22 +18,22 @@
             <ul class="nav navbar-nav navbar-right">
                 {{ if and .Site.Params.about .Site.Params.navigation.links.about }}
                     <li>
-                        <a class="page-scroll" href="#about">{{ .Site.Params.navigation.links.about }}</a>
+                        <a class="page-scroll" href="/#about">{{ .Site.Params.navigation.links.about }}</a>
                     </li>
                 {{ end }}
 				{{ if and .Site.Data.products .Site.Params.navigation.links.products }}
                     <li>
-                        <a class="page-scroll" href="#products">{{ .Site.Params.navigation.links.products }}</a>
+                        <a class="page-scroll" href="/#products">{{ .Site.Params.navigation.links.products }}</a>
                     </li>
                 {{ end }}
                 {{ if and .Site.Params.services.list .Site.Params.navigation.links.services }}
                     <li>
-                        <a class="page-scroll" href="#services">{{ .Site.Params.navigation.links.services }}</a>
+                        <a class="page-scroll" href="/#services">{{ .Site.Params.navigation.links.services }}</a>
                     </li>
                 {{ end }}
                 {{ if and .Site.Params.contact .Site.Params.navigation.links.contact }}
                     <li>
-                        <a class="page-scroll" href="#contact">{{ .Site.Params.navigation.links.contact }}</a>
+                        <a class="page-scroll" href="/#contact">{{ .Site.Params.navigation.links.contact }}</a>
                     </li>
                 {{ end }}
             </ul>
