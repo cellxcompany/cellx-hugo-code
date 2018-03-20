@@ -1,50 +1,151 @@
 +++
 date = "2018-03-17T14:57:34+07:00"
-title = "Office365"
-draft = true
+title = "Office 365"
+
 
 +++
+<strong><h3>Office 365 chỉ một cho tất cả cho công việc của bạn</h3></strong>
+Microsoft Teams là gì?
+```
+Mycrosoft Teams là một trung tâm cho hoạt động làm việc nhóm, Nó là ứng dụng giúp bạn kết hợp một nhóm và làm việc cùng nhau thông qua trò chuyện thay vì Email, Mỗi kênh là một không gian làm việc cho bạn và nhóm của bạn có thể an toàn chỉnh sửa tệp cùng lúc và xem số lượt thích, số lần đề cập và trả lời chỉ bằng một cái gõ nhẹ
+Đó là nơi mà nhóm của bạn có thể tùy chỉnh theo ý mình bằng cách thêm các ghi chú; trang web và ứng dụng
+Và bởi vì nó được lưu trữ trên cloud lên mọi người có thể làm việc cùng nhau dù ở bất cứ nơi đâu; Nó tạo ra không khí làm việc nhóm vui vẻ và nâng cao hiệu suất cho nhóm của bạn. 
+```
 
-Hello from Office 365
+{{< youtube 6D7NCRiCo9Q >}}
+```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere odio in neque egestas dictum. Aenean et ipsum a erat maximus scelerisque id viverra erat. Aliquam placerat semper eros ut viverra. Vivamus eget ex nec odio posuere varius. Maecenas dapibus enim sit amet dui egestas sollicitudin. Curabitur quis accumsan metus, vitae blandit quam. Curabitur et molestie risus. Donec pulvinar purus sit amet nibh feugiat scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent pharetra venenatis turpis tincidunt tincidunt.
+Microsoft Teams được tích hợp sẵn trong Office 365, giúp các nhóm làm việc trong công ty có không gian chung để thảo luận và làm việc. Cụ thể thì Teams sẽ có các nhóm công cụ chủ chốt:
+```
 
-Morbi eget orci pellentesque, blandit odio sed, venenatis velit. Nullam placerat tempor ex quis commodo. Sed dolor arcu, interdum in augue nec, porttitor elementum ex. Fusce non risus tempor, elementum elit vel, lobortis mi. Mauris eget tristique leo. Fusce lectus quam, pellentesque interdum dui id, condimentum commodo eros. Integer tincidunt mi turpis.
+- Công cụ hội thoại nhóm (group chat): Các thảo luận nhóm sẽ hiển thị cho mọi thành viên trong nhóm làm việc, Teams có sẵn sticky và các biểu tượng vui nhộn để cá nhân hoá khi chat. Teams cũng hỗ trợ chat riêng giữa các thành viên trong nhóm làm việc.
+- Hỗ trợ cuộc họp hội thoại
+- Hỗ trợ cuộc họp video
+- Có thể làm việc bằng tài liệu Microsoft Office
+- Hỗ trợ Microsoft Graph: Trình bày đồ thị, biểu đồ trực tiếp khi chat nhóm
+- Hỗ trợ tối ưu và đặc thù hoá cho từng mục đích làm việc: Các thành viên nhóm có thể tạo ra các kênh để tổ chức hội thoại theo chủ đề. Họ có thể tối ưu hóa các kênh với các tính năng tabs, giúp nhanh chóng truy cập tới các tài liệu và ứng dụng hay sử dụng. Tabs có thể được tạo ra trong các dịch vụ của Office 365 như OneNote, SharePoint và Planner, hoặc trong các giải pháp của đối tác thứ ba như Zendesk và Asana.
 
-Proin ac ex tincidunt dolor placerat auctor. Maecenas non elementum neque. Mauris felis mi, vulputate et sem ut, aliquet commodo lacus. Donec massa eros, laoreet et libero et, pretium dapibus ex. Nunc in turpis ligula. Vestibulum mattis suscipit nulla in luctus. Morbi vitae nisl sed orci dapibus rhoncus. Nulla tempus, nibh faucibus pretium tempus, neque odio convallis odio, non luctus velit tortor nec lacus. Proin in commodo diam. Aliquam erat volutpat. Maecenas tincidunt eu diam eget sollicitudin. Vestibulum eu neque pretium, facilisis mauris id, tristique nunc. Integer ac magna neque. Nullam pharetra posuere mi, vel mollis tellus ullamcorper interdum. Nulla facilisi. Ut bibendum nisi non rutrum laoreet.
 
-Aliquam molestie diam pellentesque, tristique elit vel, molestie erat. Mauris aliquam consectetur risus nec gravida. Vivamus leo sem, suscipit ac sagittis ut, bibendum quis lectus. In purus sapien, pharetra at sapien placerat, iaculis sodales urna. In blandit egestas gravida. In porta nunc quis tempus congue. Nulla facilisi. Vestibulum eleifend vestibulum ex, ut porttitor tortor ultrices in. Fusce ut rutrum tellus. Quisque sit amet nisl vehicula, bibendum neque quis, commodo felis. Sed quis efficitur dui. Curabitur scelerisque iaculis ex. Vivamus posuere massa eu sagittis condimentum. Praesent ex urna, fringilla et arcu at, fermentum gravida quam.
+```
+Với Microsoft Teams chúng ta có được một môi trường mở gần gũi và kỹ thuật số hơn
+Microsoft Teams đưa ra bốn tiêu chí tuyệt vời để xây dựng lên không gian làm việc số ấy:
+{{< figure src="/img/products/Teams.jpg">}}
 
-Vestibulum sagittis tincidunt nunc in interdum. Quisque in pulvinar eros, nec mattis elit. Curabitur congue ex non finibus pellentesque. Nullam dictum sit amet erat non placerat. Maecenas mauris neque, volutpat a euismod ullamcorper, tempor sollicitudin ante. Ut dignissim vestibulum fringilla. Quisque hendrerit, odio sit amet interdum faucibus, arcu odio mollis felis, in malesuada nisl metus vel sem. Sed aliquet metus venenatis mollis dictum.
+```
 
-Donec non sem cursus, pharetra nulla id, laoreet quam. Vestibulum vitae metus tempor ante ullamcorper congue sagittis id augue. Suspendisse malesuada et arcu eu sagittis. In gravida, urna eu tincidunt fermentum, neque massa pretium magna, at cursus lorem ante maximus arcu. Quisque quis velit vel leo vestibulum commodo a et ante. Mauris pretium, risus a placerat aliquam, lectus est rutrum lacus, sed rhoncus magna mi non nunc. Suspendisse eu volutpat ipsum, condimentum tincidunt dolor. Donec fringilla lacus velit, eu vestibulum felis imperdiet ac. Etiam auctor varius ipsum vel mollis. Fusce non ante hendrerit, blandit massa sed, sollicitudin mauris. Morbi quis ipsum nec leo porttitor placerat. Duis in nunc enim.
 
-Etiam vitae fermentum sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus non luctus purus. Curabitur id dapibus libero, non pellentesque nisi. Sed quis rhoncus lacus. Maecenas tempor non ante quis volutpat. Praesent tempus tincidunt tellus sit amet laoreet. Duis tincidunt nulla sed metus fringilla, vel maximus dui lacinia. Nam quis nulla vel urna imperdiet malesuada in eget lacus. Maecenas viverra dolor eu felis tincidunt, et porta enim tincidunt. Integer ligula libero, facilisis sed mi at, faucibus ullamcorper mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, ex a sagittis ornare, turpis quam egestas dui, id dapibus metus ante vel risus. Mauris congue metus vel turpis tempus interdum.
+**Những thống kê cho cho thấy tính ảnh hưởng của trao đổi thông tin mỗi ngày**
 
-Etiam id feugiat nibh, ac egestas ligula. Ut nec velit libero. Pellentesque et posuere augue. Quisque in dictum felis, at congue dui. Aliquam erat volutpat. Duis nibh tellus, scelerisque in dolor ut, finibus tristique tellus. Donec ornare, mauris sit amet ultrices pharetra, leo mi elementum augue, sit amet hendrerit massa odio a enim. Fusce finibus odio sit amet nisi semper consectetur quis sit amet mi. Aliquam vitae scelerisque risus. In hendrerit ut nisi eget scelerisque. Maecenas sit amet felis lectus. Pellentesque rhoncus neque ut justo accumsan varius. Duis viverra imperdiet placerat. Duis porta risus hendrerit magna facilisis molestie. Suspendisse at massa nulla.
+Tính năng | Thống kê
+------------ | -------------
+Email và lịch với Exchange Foundations | 6 Tỷ Email mỗi ngày
+Chia sẻ và quản lý nội dung, kiến thức và ứng dụng với SharePoint | 6 Petabyte của dữ liệu
+Thoại trực tuyến, video trực tuyến và trò chuyện với Skype | 6 Tỷ phút gọi mỗi ngày
+Kết nối mọi người để thúc đẩy sự tham gia cộng đồng với Yammer | Người dùng Yammer tăng trưởng 70%
+Cùng sáng tạo với Office 365 ProPlus | 1,2 tỷ người dùng
+Làm việc trong không gian làm việc dựa trên trò chuyện trong Microsoft Teams               | 181 thị trường khác nhau với 19 Ngôn ngữ phổ biến
 
-Vestibulum faucibus, felis a tristique cursus, metus lacus varius leo, sit amet ultrices ante tortor a augue. Nulla facilisi. Vivamus finibus enim sit amet dolor viverra porttitor. Donec id tellus odio. Nam interdum est dignissim purus sodales, id mattis augue auctor. Phasellus ex dui, ultricies sit amet sapien eu, vestibulum fermentum dui. Ut fringilla lectus eu massa posuere consequat. Vestibulum porttitor vel ex eget efficitur. Phasellus eget libero quis diam malesuada tempus a eget tortor. Ut ultricies in libero non rutrum.
 
-Morbi ac lorem augue. Donec tempor facilisis orci eu dictum. Nam vel mauris a risus scelerisque iaculis nec ac mauris. Donec rhoncus sem a malesuada blandit. Aenean vitae mattis velit. Donec porta sed eros in imperdiet. Proin ac nibh in urna mollis sagittis. Donec est eros, ornare eu sem tempor, consequat porttitor erat. Integer finibus turpis purus, feugiat aliquam enim mattis vitae.
 
-Nulla vel enim laoreet, fermentum lorem sed, mattis nisl. Aliquam quam lectus, vulputate nec facilisis a, facilisis vitae arcu. Phasellus libero est, mattis eget dui id, mollis imperdiet quam. Vivamus porta dui interdum, feugiat quam quis, hendrerit tortor. Quisque molestie mi eu lectus imperdiet, eu congue mi cursus. Praesent malesuada congue sollicitudin. Sed laoreet convallis magna et ullamcorper. Sed ac molestie erat. Donec iaculis eget mauris a ornare. Suspendisse ipsum nisl, efficitur eu odio at, vulputate aliquam urna. Vivamus mattis metus vitae mauris tincidunt pharetra. Nulla quis scelerisque felis, et sagittis dolor. Aliquam non leo metus. Fusce pulvinar, magna nec luctus scelerisque, dui mi lacinia enim, id ultricies risus risus sed ante. Proin lobortis gravida sodales. Aenean pretium lectus urna, eu convallis risus finibus vitae.
+<br>
 
-Suspendisse non ullamcorper orci, a tristique urna. Vestibulum sollicitudin felis ultricies, pretium sapien vel, sagittis ex. Curabitur ornare arcu rhoncus nibh laoreet, eget elementum justo tristique. Fusce ut sapien tempor, venenatis nunc in, tincidunt mi. Fusce vel nisi tincidunt, eleifend orci eleifend, tincidunt quam. Cras condimentum nulla at egestas iaculis. Sed nisl arcu, vestibulum lacinia malesuada lacinia, dignissim at justo. Nullam nec diam imperdiet, euismod nibh eget, efficitur sapien. Donec ornare orci nec dolor pellentesque pretium. Donec diam augue, pretium quis vestibulum non, euismod egestas enim. Cras mattis, sapien vel rhoncus interdum, libero enim lobortis sem, a facilisis dolor odio placerat neque.
+**Microsoft Teams, Công cụ hội thoại nhóm (group chat):**
 
-Etiam sit amet felis quis ipsum tristique tristique vel a ante. Integer blandit auctor erat, nec vestibulum nibh. Vestibulum feugiat eleifend mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultrices dolor urna, sit amet tristique ipsum ullamcorper in. Morbi facilisis porta sodales. Vivamus volutpat felis mauris, at tincidunt nibh porttitor at. Aenean a aliquet augue, quis ultrices felis. In malesuada justo tortor, in laoreet purus condimentum ut. Nam elit quam, volutpat id dapibus at, sodales eget leo. Donec mattis nunc nibh, eu maximus augue elementum ut. Maecenas dapibus est ut erat lacinia, non blandit quam iaculis. Phasellus orci enim, interdum eu nulla vel, rutrum vestibulum turpis.
 
-Mauris finibus, nunc eu tristique pulvinar, ante erat congue nisi, vitae pharetra purus lectus id quam. Nullam dictum sem in tortor pellentesque condimentum. Duis id dolor vel augue molestie maximus. Suspendisse volutpat erat et nisl faucibus commodo. Nullam arcu ligula, sollicitudin at vestibulum nec, volutpat sed quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed tempus commodo purus nec imperdiet. Suspendisse molestie vel velit eget mollis. Praesent nisi sem, vestibulum a condimentum eu, rutrum nec risus. Aliquam et rutrum eros. Suspendisse molestie euismod ipsum, sit amet mollis arcu lobortis a.
+- Các thảo luận nhóm sẽ <b>hiển thị cho mọi thành viên</b> trong nhóm làm việc, 
 
-Mauris rutrum feugiat massa, vitae pulvinar sapien ornare ac. In hac habitasse platea dictumst. Nulla egestas egestas justo, eleifend laoreet enim ullamcorper quis. Maecenas dapibus, sapien vitae laoreet bibendum, augue massa volutpat dui, vitae venenatis erat ante ut nisi. Suspendisse semper felis eget nisi interdum, ac fermentum lectus ultrices. Curabitur blandit enim a sem maximus mollis. Fusce maximus a lacus porta condimentum. Mauris eu enim id justo faucibus placerat. Ut porttitor risus in tempus pharetra.
+- Teams có sẵn <b>sticky và các biểu tượng vui nhộn</b> để <b>cá nhân hoá</b> khi chat. 
 
-Vestibulum pharetra malesuada velit. Proin nec ornare elit. Vivamus at lobortis erat, rhoncus interdum lectus. Donec laoreet diam odio, et malesuada metus pulvinar et. Vestibulum in quam at ipsum dictum consectetur. Proin imperdiet faucibus augue, rhoncus ultrices felis tristique a. Fusce a condimentum turpis, eget semper diam. Morbi vitae lorem ullamcorper, interdum mi et, luctus metus. Cras id fringilla mauris. Suspendisse eget ex et neque ultrices euismod ut eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Teams cũng hỗ trợ <b>chat riêng giữa các thành viên</b> trong nhóm làm việc.
 
-Nam interdum quam dolor, in pharetra nisi semper sit amet. Vestibulum efficitur sapien aliquet elit consectetur efficitur. Donec aliquam sapien tristique sapien dignissim, vitae malesuada justo sagittis. Donec turpis quam, venenatis et aliquam suscipit, eleifend ac risus. Pellentesque metus orci, posuere non feugiat vel, sollicitudin sit amet nisl. Vestibulum non rutrum massa. Ut non fermentum est, vitae suscipit neque. Cras pharetra diam ut lorem egestas rutrum. Proin elit felis, condimentum in porta quis, porttitor eu orci. Praesent fringilla purus sapien, ultricies posuere magna volutpat quis. Nulla convallis scelerisque ex at laoreet. Donec tincidunt, nulla in hendrerit fringilla, nisi augue luctus arcu, vitae scelerisque dolor dolor ac eros. Duis egestas et massa vitae pulvinar. Duis sagittis aliquet maximus. Suspendisse condimentum tincidunt massa, quis venenatis ligula porta in.
+- <b>Trung tâm làm việc nhóm</b> với office 365
+ 
+- Teams được <b>bảo vệ tin cậy</b> tới cấp độ doanh nghiệp
+ 
+- <b>Tùy chỉnh theo từng nhóm</b> khác nhau 
+ {{< figure src="/img/products/chat.jpg">}} 
 
-In eu aliquam massa. Nulla interdum massa quis erat finibus, sed auctor dolor tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam imperdiet diam commodo felis viverra dapibus et et quam. Proin id sapien gravida, vehicula elit sed, accumsan massa. Etiam ullamcorper quis diam sit amet sodales. Nunc eget eleifend tellus.
+**Email thông minh và lịch với Outlook**
 
-Sed sed tortor in est auctor malesuada vitae at tellus. Donec malesuada eros non sem viverra sagittis. Morbi luctus mi nisl, nec auctor magna vestibulum at. Phasellus interdum sodales fermentum. Phasellus eget eros ipsum. Duis et aliquet odio. Nam ultrices sed metus ac lobortis. Duis eu lobortis lorem. In ultrices dapibus sagittis. Maecenas cursus, neque eu laoreet fringilla, tellus massa lobortis leo, sed congue lacus quam in erat. Nunc lacinia, ante in euismod porttitor, dolor neque pellentesque orci, ac dictum urna risus eu nisl. Maecenas non ullamcorper neque. Fusce bibendum magna ac est pretium consectetur. Nam quam diam, sollicitudin sit amet dolor non, fringilla semper ipsum.
 
-Integer justo diam, feugiat vel turpis nec, ultrices tristique metus. Cras et congue magna, varius accumsan dui. Sed pretium lobortis tellus, non pretium nisi fermentum eget. Vestibulum convallis facilisis dolor, sagittis pretium purus rhoncus a. In venenatis convallis mi, vitae vestibulum diam. Etiam et risus dictum, ullamcorper magna vitae, elementum ex. Nulla facilisi.
+- Luôn cập nhật những gì quan trọng với <b>hộp thư đến tập trung</b>
 
-Generated 20 paragraphs, 1793 words, 12165 bytes of Lorem Ipsum
+- <b>Chia sẻ</b> tệp OneDrive một cách dễ dàng dưới dạng <b>tệp đính kèm trên đám mây</b>
+
+- Gọi sự chú ý đến các hành động quan trọng và đầu vào với <b>@mentions</b>
+
+- <b>Tối ưu hơn các danh sách phân phối công việc</b> với hộp thư đến và lịch
+
+- Dễ dàng tích hợp cho các thành viên mới có <b>toàn bộ lịch sử nhóm</b>
+
+{{< figure src="/img/products/email.jpg">}} 
+
+**Truyền thông hoàn toàn qua cloud với Skype**
+
+
+- Trao đổi văn bản ,gọi và thoại qua các thiết bị với <b>VoIP và PSTN</b>
+
+- Giảm chi phí đi lại bằng <b>âm thanh, video HD và hội thảo qua web</b>
+
+- Đồng nhất các <b>hệ thống điện thoại toàn cầu</b> của bạn với Cloud PBX
+
+- <b>Tiếp cận với nhân viên của bạn</b> với cuộc họp trực tuyến của Skype
+
+- Thu hút khách hàng của bạn, sử dụng <b>Skype trong các trang web và ứng dụng</b> của bạn
+
+ {{< figure src="/img/products/Skype.jpg">}} 
+
+**Tạo, chia sẻ, tìm nội dung với Office & OneDrive**
+
+
+- <b>Sáng tạo cùng nhau trong thời gian thực</b> với ứng dụng Văn phòng
+
+- <b>Lưu trữ, đồng bộ và chia sẻ</b> tệp bên trong hoặc bên ngoài tổ chức của bạn
+
+- <b>Tìm, theo dõi và khám phá</b> nội dung từ mọi nơi trên bất kỳ thiết bị nào
+
+- Quản lý bản sửa đổi tài liệu với<b> lịch sử nguồn cấp dữ liệu và nguồn cấp dữ liệu được tích hợp</b>
+
+- Nhận nhận nhận xét và thay đổi khi đang di chuyển với <b>thông báo</b>
+
+ {{< figure src="/img/products/onedrive.jpg">}} 
+ 
+ **Nội dung, chia sẻ & khám phá hiện đại với SharePoint**
+ 
+ 
+- Truy cập các trang web và nội dung <b>bất cứ nơi nào</b> với Intranet của bạn và ngay trong túi của bạn
+
+- <b>Quản lý và cộng tác trên nội dung</b> với nhóm của bạn
+
+- Điều hướng mạng nội bộ của bạn với các <b>đề xuất thông minh</b>
+
+- <b>Tạo trang web và trang web của nhóm </b>xuất hiện một cách nhanh chóng
+
+- Tự động quy trình kinh doanh với <b>Microsoft Flow & PowerApps</b>
+
+{{< figure src="/img/products/sharepoint.jpg">}} 
+
+
+**Kết nối với Yammer, mạng xã hội cho công việc**
+
+
+- <b>Tăng cường thảo luận nhóm mở</b> với Group feed
+
+- Tổng hợp vào kiến thức tập thể với<b>khả năng tìm kiếm và khám phá</b>
+
+- <b>Lấy ý tưởng từ số đông thành viên & chia sẻ ý tưởng tốt nhất </b>trên toàn bộ tổ chức
+
+- Nhận được phản hồi của công ty bạn bằng cách sử dụng <b>các cuộc thăm dò, khen ngợi & theo dõi</b>
+
+- Theo dõi <b>hướng tương tác của nhân viên</b>với các cập nhật và cảnh báo
+{{< figure src="/img/products/yammer.jpg">}} 
+
+**Tổng hợp**
+
+Teams | Yammer | Outlook | SharePoint | Skype
+----- | ------ |-------- | ------- | --------
+Dựa trên trò chuyện để tạo ra không gian làm việc | Mạng xã hội doanh nghiệp | Email và Lịch | Quản lý site và nội dung | Truyền hình và gọi thoại hội nghị
+<i>- Nhanh chóng lập dự án với đội của bạn | <i>- Tạo một cộng đồng thực hành xung quanh nghiên cứu hoặc xu hướng | <i>- Nâng cấp DL của bạn vào hộp thư nhóm với các tài sản chia sẻ | <i>- Tạo mạng nội bộ công ty cho tin tức và tài nguyên | <i>- Thiết lập các cuộc họp với audio, video và web conferencing
+<i>- Chia sẻ các tập tin nhóm và cùng cộng tác trên các sản phẩm | <i>- Khơi nguồn ý tưởng về cách giải quyết vấn đề | <i>- Chia sẻ cập nhật với nhóm của bạn qua email | <i>- Tùy chỉnh Trang web Nhóm của bạn để tự động hóa quy trình công việc và danh sách chia sẻ tài liệu | <i>- Tổ chức các cuộc họp với tối đa 10.000 người
+<i>- Kết nối công cụ phát triển vào không gian làm việc của bạn | <i>- Tăng cường các cuộc trò chuyện hai chiều giữa lãnh đạo và nhân viên | <i>- Giữ nhóm của bạn đồng bộ với lịch được chia sẻ | <i>- Hợp tác trên các tệp tin cá nhân của bạn trong OneDrive | <i>- Thực hiện các cuộc gọi kinh doanh bằng mạng Internet hoặc mạng điện thoại
+

@@ -13,8 +13,12 @@
 		<div class="post" style="padding-top:50px;">
 		  <h1>{{ .Title }}</h1>
 		  <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-		 <div class ="blog" > <h3>{{ .Content }}</h3> </div>
+		 <div class=" wow bounceIn" data-wow-delay=".1s"><h3>{{ .Content }}</h3> </div>
+		 
 		</div>
+		
+			{{ partial "contact.html" . }}	
+                   
         {{ template "_internal/google_analytics.html" . }}
 		{{ partial "js.html" . }} 
     </body>

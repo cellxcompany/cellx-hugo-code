@@ -5,3 +5,4 @@ draft = true
 
 +++
 Website đang được cập nhật!
+{{< figure src="/img/products/ecom.jpg" title="ECOM" >}}
