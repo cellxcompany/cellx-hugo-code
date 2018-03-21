@@ -516,3 +516,8 @@ div.sub, iframe {
     background-color: #777;
 
 }
+.post .bounceIn img {
+	
+    width: 100%;
+    height: auto;
+}

@@ -1,8 +1,7 @@
 +++
 date = "2018-03-17T14:57:34+07:00"
 title = "Office 365"
-
-
+draft = false
 +++
 <strong><h3>Office 365 chỉ một cho tất cả cho công việc của bạn</h3></strong>
 Microsoft Teams là gì?
@@ -29,7 +28,7 @@ Microsoft Teams được tích hợp sẵn trong Office 365, giúp các nhóm l�
 ```
 Với Microsoft Teams chúng ta có được một môi trường mở gần gũi và kỹ thuật số hơn
 Microsoft Teams đưa ra bốn tiêu chí tuyệt vời để xây dựng lên không gian làm việc số ấy:
-{{< figure src="/img/products/Teams.jpg">}}
+{{< figure class="responsive" src="/img/products/Teams.jpg">}}
 
 ```
 
@@ -52,76 +51,76 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 **Microsoft Teams, Công cụ hội thoại nhóm (group chat):**
 
 
-- Các thảo luận nhóm sẽ <b>hiển thị cho mọi thành viên</b> trong nhóm làm việc, 
+- Các thảo luận nhóm sẽ <b><span style="color:red">hiển thị cho mọi thành viên</b> trong nhóm làm việc, </span>
 
-- Teams có sẵn <b>sticky và các biểu tượng vui nhộn</b> để <b>cá nhân hoá</b> khi chat. 
+- Teams có sẵn <b><span style="color:red">sticky và các biểu tượng vui nhộn</b></span> để <b><span style="color:red">cá nhân hoá</b> khi chat. 
 
-- Teams cũng hỗ trợ <b>chat riêng giữa các thành viên</b> trong nhóm làm việc.
+- Teams cũng hỗ trợ <span style="color:red"><b>chat riêng giữa các thành viên</b></span> trong nhóm làm việc.
 
-- <b>Trung tâm làm việc nhóm</b> với office 365
+- <span style="color:red"><b>Trung tâm làm việc nhóm</b></span> với office 365
  
-- Teams được <b>bảo vệ tin cậy</b> tới cấp độ doanh nghiệp
+- Teams được <b><span style="color:red">bảo vệ tin cậy</b></span> tới cấp độ doanh nghiệp
  
-- <b>Tùy chỉnh theo từng nhóm</b> khác nhau 
- {{< figure src="/img/products/chat.jpg">}} 
+- <span style="color:red"><b>Tùy chỉnh theo từng nhóm</b></span> khác nhau 
+ {{< figure class="sizeimage" src="/img/products/chat.jpg">}} 
 
 **Email thông minh và lịch với Outlook**
 
 
-- Luôn cập nhật những gì quan trọng với <b>hộp thư đến tập trung</b>
+- Luôn cập nhật những gì quan trọng với <span style="color:red"><b>hộp thư đến tập trung</b></span>
 
-- <b>Chia sẻ</b> tệp OneDrive một cách dễ dàng dưới dạng <b>tệp đính kèm trên đám mây</b>
+- <span style="color:red"><b>Chia sẻ</b></span> tệp OneDrive một cách dễ dàng dưới dạng <span style="color:red"><b>tệp đính kèm trên đám mây</b></span>
 
-- Gọi sự chú ý đến các hành động quan trọng và đầu vào với <b>@mentions</b>
+- Gọi sự chú ý đến các hành động quan trọng và đầu vào với <span style="color:red"><b>@mentions</b></span>
 
-- <b>Tối ưu hơn các danh sách phân phối công việc</b> với hộp thư đến và lịch
+- <span style="color:red"><b>Tối ưu hơn các danh sách phân phối công việc</b></span> với hộp thư đến và lịch
 
-- Dễ dàng tích hợp cho các thành viên mới có <b>toàn bộ lịch sử nhóm</b>
+- Dễ dàng tích hợp cho các thành viên mới có <span style="color:red"><b>toàn bộ lịch sử nhóm</b></span>
 
 {{< figure src="/img/products/email.jpg">}} 
 
 **Truyền thông hoàn toàn qua cloud với Skype**
 
 
-- Trao đổi văn bản ,gọi và thoại qua các thiết bị với <b>VoIP và PSTN</b>
+- Trao đổi văn bản ,gọi và thoại qua các thiết bị với <span style="color:red"><b>VoIP và PSTN</b></span>
 
-- Giảm chi phí đi lại bằng <b>âm thanh, video HD và hội thảo qua web</b>
+- Giảm chi phí đi lại bằng <span style="color:red"><b>âm thanh, video HD và hội thảo qua web</b></span>
 
-- Đồng nhất các <b>hệ thống điện thoại toàn cầu</b> của bạn với Cloud PBX
+- Đồng nhất các <span style="color:red"><b>hệ thống điện thoại toàn cầu</b></span> của bạn với Cloud PBX
 
-- <b>Tiếp cận với nhân viên của bạn</b> với cuộc họp trực tuyến của Skype
+- <span style="color:red"><b>Tiếp cận với nhân viên của bạn</b></span> với cuộc họp trực tuyến của Skype
 
-- Thu hút khách hàng của bạn, sử dụng <b>Skype trong các trang web và ứng dụng</b> của bạn
+- Thu hút khách hàng của bạn, sử dụng <span style="color:red"><b>Skype trong các trang web và ứng dụng</b></span> của bạn
 
  {{< figure src="/img/products/Skype.jpg">}} 
 
 **Tạo, chia sẻ, tìm nội dung với Office & OneDrive**
 
 
-- <b>Sáng tạo cùng nhau trong thời gian thực</b> với ứng dụng Văn phòng
+- <span style="color:red"><b>Sáng tạo cùng nhau trong thời gian thực</b></span> với ứng dụng Văn phòng
 
-- <b>Lưu trữ, đồng bộ và chia sẻ</b> tệp bên trong hoặc bên ngoài tổ chức của bạn
+- <span style="color:red"><b>Lưu trữ, đồng bộ và chia sẻ</b></span> tệp bên trong hoặc bên ngoài tổ chức của bạn
 
-- <b>Tìm, theo dõi và khám phá</b> nội dung từ mọi nơi trên bất kỳ thiết bị nào
+- <span style="color:red"><b>Tìm, theo dõi và khám phá</b></span> nội dung từ mọi nơi trên bất kỳ thiết bị nào
 
-- Quản lý bản sửa đổi tài liệu với<b> lịch sử nguồn cấp dữ liệu và nguồn cấp dữ liệu được tích hợp</b>
+- Quản lý bản sửa đổi tài liệu với<span style="color:red"><b> lịch sử nguồn cấp dữ liệu và nguồn cấp dữ liệu được tích hợp</b></span>
 
-- Nhận nhận nhận xét và thay đổi khi đang di chuyển với <b>thông báo</b>
+- Nhận nhận nhận xét và thay đổi khi đang di chuyển với <span style="color:red"><b>thông báo</b></span>
 
  {{< figure src="/img/products/onedrive.jpg">}} 
  
  **Nội dung, chia sẻ & khám phá hiện đại với SharePoint**
  
  
-- Truy cập các trang web và nội dung <b>bất cứ nơi nào</b> với Intranet của bạn và ngay trong túi của bạn
+- Truy cập các trang web và nội dung <span style="color:red"><b>bất cứ nơi nào</b></span> với Intranet của bạn và ngay trong túi của bạn
 
-- <b>Quản lý và cộng tác trên nội dung</b> với nhóm của bạn
+- <span style="color:red"><b>Quản lý và cộng tác trên nội dung</b></span> với nhóm của bạn
 
-- Điều hướng mạng nội bộ của bạn với các <b>đề xuất thông minh</b>
+- Điều hướng mạng nội bộ của bạn với các <span style="color:red"><b>đề xuất thông minh</b></span>
 
-- <b>Tạo trang web và trang web của nhóm </b>xuất hiện một cách nhanh chóng
+- <span style="color:red"><b>Tạo trang web và trang web của nhóm </b></span>xuất hiện một cách nhanh chóng
 
-- Tự động quy trình kinh doanh với <b>Microsoft Flow & PowerApps</b>
+- Tự động quy trình kinh doanh với <span style="color:red"><b>Microsoft Flow & PowerApps</b></span>
 
 {{< figure src="/img/products/sharepoint.jpg">}} 
 
@@ -129,15 +128,15 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 **Kết nối với Yammer, mạng xã hội cho công việc**
 
 
-- <b>Tăng cường thảo luận nhóm mở</b> với Group feed
+- <span style="color:red"><b>Tăng cường thảo luận nhóm mở</b></span> với Group feed
 
-- Tổng hợp vào kiến thức tập thể với<b>khả năng tìm kiếm và khám phá</b>
+- Tổng hợp vào kiến thức tập thể với<span style="color:red"><b> khả năng tìm kiếm và khám phá</b></span>
 
-- <b>Lấy ý tưởng từ số đông thành viên & chia sẻ ý tưởng tốt nhất </b>trên toàn bộ tổ chức
+- <span style="color:red"><b>Lấy ý tưởng từ số đông thành viên & chia sẻ ý tưởng tốt nhất </b></span>trên toàn bộ tổ chức
 
-- Nhận được phản hồi của công ty bạn bằng cách sử dụng <b>các cuộc thăm dò, khen ngợi & theo dõi</b>
+- Nhận được phản hồi của công ty bạn bằng cách sử dụng <span style="color:red"><b>các cuộc thăm dò, khen ngợi & theo dõi</b></span>
 
-- Theo dõi <b>hướng tương tác của nhân viên</b>với các cập nhật và cảnh báo
+- Theo dõi <span style="color:red"><b>hướng tương tác của nhân viên</b></span> với các cập nhật và cảnh báo
 {{< figure src="/img/products/yammer.jpg">}} 
 
 **Tổng hợp**
