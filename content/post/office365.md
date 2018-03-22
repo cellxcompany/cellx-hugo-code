@@ -4,18 +4,45 @@ title = "Office 365"
 draft = false
 +++
 <strong><h3>Office 365 chỉ một cho tất cả cho công việc của bạn</h3></strong>
-Microsoft Teams là gì?
-```
+
+- [MENU] (#)
+- [Giới Thiệu](#gioithieu)
+- [Microsoft Teams là gì?](#microsoftteams)
+- [Các nhóm công cụ trong Microsoft Teams](#congcu)
+	- [Công cụ hội thoại nhóm (Gruop chat)](#gruopchat)
+	- [Mail vầ Lịch](#outlook)
+	- [Gọi thoại và hội nghị trực tuyến](#video)
+	- [Lưu trữ đám mây](#cloud)
+	- [Quản lí website và nội dung web](#site)
+	- [Mạng xã hội doang nghiệp](#social)
+- [Tổng kết](#tongket)
+
+## <a name="gioithieu">Giới Thiệu </a>
+
+Trong những năm qua, số lượng nhóm làm việc đã tăng gấp đôi, người dùng doanh nghiệp sử dụng thoại và email nhiều hơn, họ dành tới 80% thời gian của mình để làm việc thông qua trao đổi. Chính vì lẽ đó, Microsoft đã đưa ra những giải pháp để hỗ trợ người dùng làm việc nhóm một cách hiệu quả nhanh chóng và dễ dàng.
+Bộ giải pháp Microsoft Teams bao gồm nhiều tính năng hữu ích để hỗ trợ người dùng sử lí công việc nhóm tốt hơn :
+
+-	Công cụ hội thoại nhóm (group chat)
+-	Mail vầ Lịch
+-	Gọi thoại và hội nghị trực tuyến
+-	Cùng chỉnh sửa nội dung
+-	Quản lí website và nội dung web
+-	Mạng xã hội doang nghiệp
+
+
+## <a name="microsoftteams">Microsoft Teams là gì?</a>
+
 Mycrosoft Teams là một trung tâm cho hoạt động làm việc nhóm, Nó là ứng dụng giúp bạn kết hợp một nhóm và làm việc cùng nhau thông qua trò chuyện thay vì Email, Mỗi kênh là một không gian làm việc cho bạn và nhóm của bạn có thể an toàn chỉnh sửa tệp cùng lúc và xem số lượt thích, số lần đề cập và trả lời chỉ bằng một cái gõ nhẹ
 Đó là nơi mà nhóm của bạn có thể tùy chỉnh theo ý mình bằng cách thêm các ghi chú; trang web và ứng dụng
 Và bởi vì nó được lưu trữ trên cloud lên mọi người có thể làm việc cùng nhau dù ở bất cứ nơi đâu; Nó tạo ra không khí làm việc nhóm vui vẻ và nâng cao hiệu suất cho nhóm của bạn. 
-```
+
 
 {{< youtube 6D7NCRiCo9Q >}}
-```
 
+
+## <a name="congcu">Các công cụ chủ chốt</a>
 Microsoft Teams được tích hợp sẵn trong Office 365, giúp các nhóm làm việc trong công ty có không gian chung để thảo luận và làm việc. Cụ thể thì Teams sẽ có các nhóm công cụ chủ chốt:
-```
+
 
 - Công cụ hội thoại nhóm (group chat): Các thảo luận nhóm sẽ hiển thị cho mọi thành viên trong nhóm làm việc, Teams có sẵn sticky và các biểu tượng vui nhộn để cá nhân hoá khi chat. Teams cũng hỗ trợ chat riêng giữa các thành viên trong nhóm làm việc.
 - Hỗ trợ cuộc họp hội thoại
@@ -25,12 +52,12 @@ Microsoft Teams được tích hợp sẵn trong Office 365, giúp các nhóm l�
 - Hỗ trợ tối ưu và đặc thù hoá cho từng mục đích làm việc: Các thành viên nhóm có thể tạo ra các kênh để tổ chức hội thoại theo chủ đề. Họ có thể tối ưu hóa các kênh với các tính năng tabs, giúp nhanh chóng truy cập tới các tài liệu và ứng dụng hay sử dụng. Tabs có thể được tạo ra trong các dịch vụ của Office 365 như OneNote, SharePoint và Planner, hoặc trong các giải pháp của đối tác thứ ba như Zendesk và Asana.
 
 
-```
+
 Với Microsoft Teams chúng ta có được một môi trường mở gần gũi và kỹ thuật số hơn
 Microsoft Teams đưa ra bốn tiêu chí tuyệt vời để xây dựng lên không gian làm việc số ấy:
-{{< figure class="responsive" src="/img/products/Teams.jpg">}}
+{{< figure  src="/img/products/Teams.jpg">}}
 
-```
+
 
 
 **Những thống kê cho cho thấy tính ảnh hưởng của trao đổi thông tin mỗi ngày**
@@ -47,8 +74,8 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 
 
 <br>
-
-**Microsoft Teams, Công cụ hội thoại nhóm (group chat):**
+<a name="gruopchat">
+**Microsoft Teams, Công cụ hội thoại nhóm (group chat):**</a>
 
 
 - Các thảo luận nhóm sẽ <b><span style="color:red">hiển thị cho mọi thành viên</b> trong nhóm làm việc, </span>
@@ -63,8 +90,8 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
  
 - <span style="color:red"><b>Tùy chỉnh theo từng nhóm</b></span> khác nhau 
  {{< figure class="sizeimage" src="/img/products/chat.jpg">}} 
-
-**Email thông minh và lịch với Outlook**
+<a name="outlook">
+**Email thông minh và lịch với Outlook**</a>
 
 
 - Luôn cập nhật những gì quan trọng với <span style="color:red"><b>hộp thư đến tập trung</b></span>
@@ -78,8 +105,8 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 - Dễ dàng tích hợp cho các thành viên mới có <span style="color:red"><b>toàn bộ lịch sử nhóm</b></span>
 
 {{< figure src="/img/products/email.jpg">}} 
-
-**Truyền thông hoàn toàn qua cloud với Skype**
+<a name="video">
+**Truyền thông hoàn toàn qua cloud với Skype**</a>
 
 
 - Trao đổi văn bản ,gọi và thoại qua các thiết bị với <span style="color:red"><b>VoIP và PSTN</b></span>
@@ -93,7 +120,7 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 - Thu hút khách hàng của bạn, sử dụng <span style="color:red"><b>Skype trong các trang web và ứng dụng</b></span> của bạn
 
  {{< figure src="/img/products/Skype.jpg">}} 
-
+<a name="cloud">
 **Tạo, chia sẻ, tìm nội dung với Office & OneDrive**
 
 
@@ -108,8 +135,8 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 - Nhận nhận nhận xét và thay đổi khi đang di chuyển với <span style="color:red"><b>thông báo</b></span>
 
  {{< figure src="/img/products/onedrive.jpg">}} 
- 
- **Nội dung, chia sẻ & khám phá hiện đại với SharePoint**
+ <a name="site">
+ **Nội dung, chia sẻ & khám phá hiện đại với SharePoint**</a>
  
  
 - Truy cập các trang web và nội dung <span style="color:red"><b>bất cứ nơi nào</b></span> với Intranet của bạn và ngay trong túi của bạn
@@ -124,8 +151,8 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 
 {{< figure src="/img/products/sharepoint.jpg">}} 
 
-
-**Kết nối với Yammer, mạng xã hội cho công việc**
+ <a name="social">
+**Kết nối với Yammer, mạng xã hội cho công việc**</a>
 
 
 - <span style="color:red"><b>Tăng cường thảo luận nhóm mở</b></span> với Group feed
@@ -139,7 +166,8 @@ Làm việc trong không gian làm việc dựa trên trò chuyện trong Micros
 - Theo dõi <span style="color:red"><b>hướng tương tác của nhân viên</b></span> với các cập nhật và cảnh báo
 {{< figure src="/img/products/yammer.jpg">}} 
 
-**Tổng hợp**
+ <a name="tongket">
+**Tổng kết**</a>
 
 Teams | Yammer | Outlook | SharePoint | Skype
 ----- | ------ |-------- | ------- | --------
@@ -147,4 +175,6 @@ Dựa trên trò chuyện để tạo ra không gian làm việc | Mạng xã h�
 <i>- Nhanh chóng lập dự án với đội của bạn | <i>- Tạo một cộng đồng thực hành xung quanh nghiên cứu hoặc xu hướng | <i>- Nâng cấp DL của bạn vào hộp thư nhóm với các tài sản chia sẻ | <i>- Tạo mạng nội bộ công ty cho tin tức và tài nguyên | <i>- Thiết lập các cuộc họp với audio, video và web conferencing
 <i>- Chia sẻ các tập tin nhóm và cùng cộng tác trên các sản phẩm | <i>- Khơi nguồn ý tưởng về cách giải quyết vấn đề | <i>- Chia sẻ cập nhật với nhóm của bạn qua email | <i>- Tùy chỉnh Trang web Nhóm của bạn để tự động hóa quy trình công việc và danh sách chia sẻ tài liệu | <i>- Tổ chức các cuộc họp với tối đa 10.000 người
 <i>- Kết nối công cụ phát triển vào không gian làm việc của bạn | <i>- Tăng cường các cuộc trò chuyện hai chiều giữa lãnh đạo và nhân viên | <i>- Giữ nhóm của bạn đồng bộ với lịch được chia sẻ | <i>- Hợp tác trên các tệp tin cá nhân của bạn trong OneDrive | <i>- Thực hiện các cuộc gọi kinh doanh bằng mạng Internet hoặc mạng điện thoại
+
+
 
